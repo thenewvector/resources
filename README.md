@@ -6,6 +6,7 @@
 
 * **07 May 2026:** Added a summary and deep dive into [Rhetorical Structure Theory (1992)](./03-concepts/rst/rhetorical-structure-theory.md).
 * **17 May 2026:** Added a comparative analysis of EDU segmentation in classic RST vs. [GUM/eRST through a Systemic Functional Linguistics lens in Construing EDUs: An SFL Perspective on RST Parsing](./03-concepts/rst/construing-edus-an-sfl-perspective-on-rst-parsing.md).
+* **28 May 2026:** Added notes consolidating the Stede et al. (2017) relation taxonomy in [Rhetorical Relations Taxonomy (Stede et al., 2017)](./03-concepts/rst/rst-taxonomy-stede-2017.md).
 
 ## 🧠 Philosophy
 

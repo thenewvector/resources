@@ -1,7 +1,7 @@
-# Construing EDUs: An SFL Perspective on RST Parsing
+**Date:** 2026-05-17 | **Version:** 1.0
+**Tags:** #rst #sfl #discourse #sem-segm #depr-rst
 
-#rst #sfl #discourse #sem-segm #depr-rst
-*Version 1.0 — 17 May 2026*
+# Construing EDUs: An SFL Perspective on RST Parsing
 
 ## The Core Intuition
 
